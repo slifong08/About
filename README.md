@@ -1,4 +1,4 @@
-# sarah.l.fong.github.io
+_sarah.l.fong.github.io_
 # Sarah Fong
 
 Ph.D. candidate in human genetics at Vanderbilt University. In the Capra lab (Tony is now at UCSF), I study the evolution of human gene regulation, functional genomics, and how it affects human phenotypes. 
