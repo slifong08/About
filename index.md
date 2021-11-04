@@ -16,7 +16,7 @@ I study the evolution of human gene regulatory elements, its relationship to fun
 - Human genetic varitation: human population genetics, eQTL and GWAS analyses, electronic health records.
 - Computational methods: machine learning strategies, high-performance compute clusters, jupyter notebooks, BEDTools, python, R, bash, and associated statistical methods. 
 
-### Developing antibody-drug conjugates against tumorigenic cell populations  
+### Developing antibody-drug conjugates against tumorigenic ovarian and pancreatic tumor cell populations  
 #### Abbvie/StemCentrx in South San Francisco, California
 I worked at the start-up, StemCentrx, as a research associate in the cancer biology group. There, I identified tumorigenic subpopulations and validated antibody-drug conjugates targeting those subpopulations for the treatment of ovarian and pancreatic cancer. I led three drug-target campaigns and supported the pre-clinical validation of four targets in ovarian cancer. My work contributed to authorship on four patent applications and four clinical trials for the treatment of ovarian cancer with antibody-drug conjugates. 
 
