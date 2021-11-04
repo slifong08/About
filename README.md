@@ -13,8 +13,12 @@ I study the evolution of human gene regulatory elements, its relationship to fun
 
 **Relevant skills** 
 - Functional genomics: Analyses of ChIP-seq, ATAC-seq, and massively parallel reporter assays, gene regulatory annotation strategies.
+
 - Evolutionary genetics: multiple sequences alignments, evolutionary sequence conservation, human acceleration.
+
 - Human genetic varitation: human population genetics, eQTL and GWAS analyses, electronic health records.
+
+
 - Computational methods: machine learning strategies, high-performance compute clusters, jupyter notebooks, BEDTools, python, R, bash, and associated statistical methods. 
 
 ### Developing antibody-drug conjugates against ovarian and pancreatic tumor cell populations  
@@ -23,7 +27,11 @@ I worked at the start-up, StemCentrx, as a research associate in the cancer biol
 
 **Relevant skills** 
 - Tumor modeling: Patient-derived tumor xenograft models, pancreatic and ovarian orthotopic modeling, tumor subpopulation and cancer stem cell characterization, tissue culture, FACS, flow cytometry. 
+
+
 - Candidate drug-target discovery: Analysis of RNA-seq, mass-spectometry, publically available datasets (i.e. TCGA, COSMIC, CCLE, cBioportal), somatic mutation interpretation, and bioinformatic analysis (MySQL, python, excel, and Tableau) to identify candidate antibody-drug conjugate targets.
+
+
 - Pre-clinical antibody-drug conjugate validation: Designed patient-derived xenograft efficacy testing, antibody clone selection, invitro killing assays, development of chemo-resistent xenograft cells, interpretation of antibody affinity and avidity assays.  
 
 ### Hematopoietic stem cell responses to inflammatory cytokine signaling
@@ -31,5 +39,7 @@ I worked at the start-up, StemCentrx, as a research associate in the cancer biol
 In my undergraduate work, I studied hematopoietic stem cells (HSCs) and cell-fate decisions in response to inflammatory cytokines with Dr. Eric Pietras and Dr. Emmanuelle Passegué at UCSF. My experiments characterized hematopoietic stem cell responses to exposure of inflammatory cytokines, such as IL-1b, IFN-alpha, and IL-10 in vitro. Through a series of experiments, we discovered that in response to pro-inflammatory cytokines, HSCs rapidly differentiate and commit to myeloid cell-fates to replenish downstream myeloid cell populations. This work highlighted the replenishing role of HSCs during inflammation. 
 
 **Relevant skills** 
-- Hematopoietic stem cell characterization: isolation from mouse bone marrow, tissue culture, FACS, flow cytometry, proliferation and apoptosis assays, colony formation assays, live-image tracking, 
+- Hematopoietic stem cell characterization: isolation from mouse bone marrow, tissue culture, FACS, flow cytometry, proliferation and apoptosis assays, colony formation assays, live-cell image tracking.
+
+
 - Other: qPCR, mouse husbandry. 
