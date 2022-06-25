@@ -27,6 +27,7 @@ I study the evolution of human gene regulatory elements, its relationship to fun
 
 **github resources** 
 - [Scripts](https://github.com/slifong08/tools) I use to study the genome and evolution of human enhancer sequences.
+- [Tutorials](https://github.com/slifong08/tutorials) on how to use BEDTools, generate config files, and run Jupyter Notebooks on ACCRE. 
 
 ## Developing antibody-drug conjugates against ovarian and pancreatic tumor cell populations  
 ### Abbvie/StemCentrx in South San Francisco, California
