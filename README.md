@@ -16,7 +16,7 @@ I study the evolution of human gene regulatory elements, its relationship to fun
 
 - Evolutionary genetics: multiple sequences alignments, evolutionary sequence conservation, human acceleration.
 
-- Human genetic varitation: human population genetics, eQTL and GWAS analyses, electronic health records.
+- Human genetic varitation: human population genetics, eQTL and GWAS analyses, PheWAS, polygenic risk scores, electronic health records.
 
 
 - Computational methods: machine learning strategies, high-performance compute clusters, jupyter notebooks, BEDTools, python, R, bash, and associated statistical methods. 
